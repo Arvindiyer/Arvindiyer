@@ -19,7 +19,7 @@ I have a **PhD in Quantitative Biology** from the University of Lausanne, Switze
 
 ### Get in Touch  
 📧 [Email Me](mailto:ayalurarvind@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/arvind-iyer)  
+💼 [LinkedIn](https://linkedin.com/in/arvindiyer1994)  
 🌐 [Website](https://arvindkiyer.com)  
 
 <!-- ## Hi there 👋 -->
