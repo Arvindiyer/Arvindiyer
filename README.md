@@ -10,13 +10,7 @@ I have a **PhD in Quantitative Biology** from the University of Lausanne, Switze
 🧬 Genomics & Cancer Research  
 💻 Data Science & Machine Learning  
 
-### Education  
-🎓 PhD in Life Sciences – University of Lausanne, Switzerland  
-🎓 M.Tech in Computational Biology – IIITD, India  
-🎓 B.E in Information Technology – BVM, India  
-
 ### Skills
-
 - **Languages:** R, Python, Java, C++, C
 - **Web Development:** HTML, CSS, Javascript
 - **Databases:** MongoDB, MySQL, 
@@ -27,9 +21,6 @@ I have a **PhD in Quantitative Biology** from the University of Lausanne, Switze
 📧 [Email Me](mailto:ayalurarvind@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/arvind-iyer)  
 🌐 [Website](https://arvindkiyer.com)  
-
-
-
 
 <!-- ## Hi there 👋 -->
 
