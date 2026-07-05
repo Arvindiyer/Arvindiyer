@@ -1,26 +1,23 @@
 # Hi, I'm Arvind Iyer 👋  
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Arvindiyer/Arvindiyer/master/my_octant.png">
+<!-- <img align="right" width="300" src="https://raw.githubusercontent.com/Arvindiyer/Arvindiyer/master/my_octant.png"> -->
 
 ### About Me  
-I have a **PhD in Quantitative Biology** from the University of Lausanne, Switzerland. I love solving problems—whether mathematical, logical, technical, or personal. I'm  passionate about **computational biology**, **genomics**, and **data science**.  
+
+- I am a **computational biologist** and Postdoctoral Researcher in the [Lupien Lab](https://lupienlab.uhnresearch.ca/) at Princess Margaret Cancer Center, University Health Network, Toronto.
+- I develop computational approaches to study cancer evolution, epigenetic heterogeneity, and cell-state plasticity using single-cell genomics and multi-omic data.
 
 ### Interests  
 🔬 Computational Biology  
 🧬 Genomics & Cancer Research  
 💻 Data Science & Machine Learning  
 
-### Skills
-- **Languages:** R, Python, Java, C++, C
-- **Web Development:** HTML, CSS, Javascript
-- **Databases:** MongoDB, MySQL, 
-- **DevOps:** Docker
-- **Machine Learning:** TensorFlow, Keras, scikit-learn
-
 ### Get in Touch  
 📧 [Email Me](mailto:ayalurarvind@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/arvindiyer1994)  
 🌐 [Website](https://arvindkiyer.com)  
+
+I'm  passionate about **computational biology**, **genomics**, and **data science** and anything science & technology.  
 
 <!-- ## Hi there 👋 -->
 
